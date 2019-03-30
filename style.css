@@ -1,0 +1,27 @@
+body {
+    background-image: url(http://www.larutadelsorigens.cat/filelook/full/22/224516/wallpaper-software.jpg);
+    position: absolute;
+    background-color: #cccccc;
+    text-align: center;
+}
+h1 {
+    font-size:40px;
+    color: grey;
+    font-style: italic;
+}
+h2 {
+    color: black;
+    font-family: sans serif;
+}
+li {
+    border: 1px solid blue;
+    display: inline-block;
+    padding: 15px;
+    list-style-type: circle;
+}
+li a {
+    background: #fff;
+    text-decoration: none;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
